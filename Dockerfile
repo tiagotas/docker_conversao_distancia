@@ -1,4 +1,4 @@
-FROM python:3.11.0-alpine 
+FROM python:3.11.0-slim
 #FROM python:3.11.0       -> +/- 950 mb
 #FROM python:3.11.0-slim  -> +/- 150 mb
 EXPOSE 5000
